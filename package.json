@@ -1,0 +1,8 @@
+{
+  "name": "ecocode-profiler",
+  "version": "1.0.0",
+  "description": "Green computing execution and carbon impact analytics profiler tool.",
+  "main": "profiler.js",
+  "type": "module",
+  "dependencies": {}
+}
